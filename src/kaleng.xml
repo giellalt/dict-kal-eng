@@ -1,4 +1,7 @@
-<dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD kaleng//SE" "kaleng.dtd">
+<?xml-stylesheet type="text/css" href="kaleng.css"?><?xml-stylesheet type="text/xsl" href="kaleng.xsl"?><r>
+<r>
 <e><l>a</l><t>Why; well!</t></e>
 <e><l>aa</l><t>Hie; here; listen</t></e>
 <e><l>aannguaq</l><t>little sweet!</t></e>
@@ -19996,5 +19999,5 @@
 <e><l>usserit</l><t></t></e>
 <e><l>ittoqerpoq</l><t></t></e>
 <e><l>viinnequtip paarmiorfia</l><t></t></e>
-</dict>
+</r>
 
