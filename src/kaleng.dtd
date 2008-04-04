@@ -1,0 +1,6 @@
+
+<!ELEMENT r (e+) >
+<!ELEMENT e (l,t)>
+<!ELEMENT l (#PCDATA)>
+<!ELEMENT t (#PCDATA)>
+
