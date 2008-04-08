@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE r PUBLIC "-//XMLmind//DTD kaleng//SE" "kaleng.dtd">
-<?xml-stylesheet type="text/css" href="kaleng.css"?>
-<?xml-stylesheet type="text/xsl" href="kaleng.xsl"?>
-<r>
+<?xml version="1.0" encoding="UTF-8"?><!--DELETE-->
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD kaleng//SE" "kaleng.dtd"><!--DELETE-->
+<?xml-stylesheet type="text/css" href="kaleng.css"?><?xml-stylesheet type="text/xsl" href="kaleng.xsl"?><!--DELETE-->
+<r><!--DELETE-->
 <e><l>a</l><t>Why; well!</t></e>
 <e><l>aa</l><t>Hie; here; listen</t></e>
 <e><l>aannguaq</l><t>little sweet!</t></e>
@@ -1050,7 +1049,7 @@
 <e><l>alluiartarfik, allungiarfik, allungiartorfik</l><t>mat; scraping board; scraper.</t></e>
 <e><l>aluppaa</l><t>licks it; licks it off.</t></e>
 <e><l>aluttorpaa</l><t>licks it; licks it up.</t></e>
-<e><l>alussarpaa</l><t>sips it. </t></e>
+<e><l>alussarpaa</l><t>sips it.</t></e>
 <e><l>alussaat</l><t>soup spoon.</t></e>
 <e><l>alussaateeraq</l><t>teaspoon, coffee spoon</t></e>
 <e><l>alutsinneq</l><t>the steep side of the snow drift; moist ice</t></e>
@@ -1620,7 +1619,7 @@
 <e><l>anguffarippoq</l><t>swims well</t></e>
 <e><l>anguffaseq</l><t>web</t></e>
 <e><l>anguffasilik</l><t>swimmer</t></e>
-<e><l>anguut</l><t>paddle; short oar which the rower moves freely in the air, so as to be able to approach the prey as noiselessly as possible; fin, ventral fin; paddle of steamer</t></e>
+<e><l>anguut</l><t>paddle; short oar which the rower moves freely in the air, so as to be able to approach the prey; fin, ventral fin; paddle of steamer</t></e>
 <e><l>anguutili or anguutillit</l><t>paddle steamer</t></e>
 <e><l>angulaaq </l><t>chewed bird skin</t></e>
 <e><l>aajuna angulaassaq</l><t>here is a skin from which the fat is to be chewed</t></e>
@@ -2349,7 +2348,7 @@
 <e><l>atonermik ikkiilligami</l><t>it was naturally blunted by the use. </t></e>
 <e><l>atornerluppaa</l><t>disabuses it. </t></e>
 <e><l>atorsarorpoq</l><t>the wind has abated. </t></e>
-<e><l>atorsaavoq</l><t>it does not blow hard; the wind is not so strong (that –one cannot sail).</t></e>
+<e><l>atorsaavoq</l><t>it does not blow hard; the wind is not so strong.</t></e>
 <e><l>atorsuppoq</l><t>catches hold lightly (of a jig for sea-scorpion). </t></e>
 <e><l>atortoq</l><t>something which is in use, can be used</t></e>
 <e><l>atukkippaa , atukkerpaa</l><t>lends him something (-mik). </t></e>
@@ -5230,7 +5229,7 @@
 <e><l>ilulissap itserna</l><t>the foot of an iceberg.</t></e>
 <e><l>itsinertuvoq</l><t>reaches far down into the water. </t></e>
 <e><l>itsinikippoq</l><t>does not reach far.</t></e>
-<e><l>ittoq</l><t>housefather; the oldest man in the house, or in the place, or among comrades, or those who travel together; leader.</t></e>
+<e><l>ittoq</l><t>housefather; the oldest man in the house, or in the place, or among comrades, or those who travel together</t></e>
 <e><l>ilimanarmiut ittuat</l><t>the eldest of the inhabitants of Claushavn. </t></e>
 <e><l>ittorput</l><t>the eldest among us; our leader. </t></e>
 <e><l>qimmit ittuat</l><t>the boss among the dogs. </t></e>
@@ -5543,7 +5542,7 @@
 <e><l>qajartaq</l><t>kayaker (who acoompanies others). </t></e>
 <e><l>umiat marlunnit qajartallit</l><t>a woman's boat, which is accompanied by two kayakers. </t></e>
 <e><l>qajariaavoq</l><t>goes with someone as a kayaker.</t></e>
-<e><l>qajaartorpoq</l><t>calls out ""kayak.”</t></e>
+<e><l>qajaartorpoq</l><t>calls out «kayak»</t></e>
 <e><l>qajartorpoq</l><t>paddles a kayak; is out in a kayak. </t></e>
 <e><l>tasinnguaq tajartorpaa</l><t>paddIes a kayak on the Iittle lake.</t></e>
 <e><l>qajartuaq</l><t>man out in a kayak for several days. </t></e>
@@ -7708,7 +7707,7 @@
 <e><l>kaataq</l><t>hammer.</t></e>
 <e><l>kaattariaq</l><t>chisel.</t></e>
 <e><l>kaaffik</l><t>anvil.</t></e>
-<e><l>kaavaa</l><t>thrusts the hand into it or under it (for instance, into the pocket or under a stone to feel for something); thrusts a last into it (a bird skin, in order to distend it, S.G.). </t></e>
+<e><l>kaavaa</l><t>thrusts the hand into it or under it; thrusts a last into it (a bird skin, in order to distend it, S.G.). </t></e>
 <e><l>kaasarfik</l><t>pocket. </t></e>
 <e><l>kaasarfimmiugaa</l><t>has it in his pocket.</t></e>
 <e><l>kaasarfimmiuliuppaa</l><t>thrusts it into his pocket.</t></e>
@@ -8984,7 +8983,7 @@
 <e><l>manngusserpaa</l><t>takes the chill off it (by taking it into a hot room); </t></e>
 <e><l>maraneq</l><t>turbid seal oil. </t></e>
 <e><l>mararna</l><t>the sediments of it (seal oil). </t></e>
-<e><l>marniuvoq</l><t>or maranĩnauvoq is mere sediment.</t></e>
+<e><l>marniuvoq</l><t>or maranînauvoq is mere sediment</t></e>
 <e><l>marangavoq</l><t>is thick, turbid (seal oil). </t></e>
 <e><l>maralluk</l><t>morass; swamp; muddy place; </t></e>
 <e><l>marallunngorpoq</l><t>has become muddy.</t></e>
@@ -11050,7 +11049,7 @@
 <e><l>nuattariaq</l><t>graphite; lead pencil. </t></e>
 <e><l>nuakoorfik</l><t>spittoon.</t></e>
 <e><l>nuannaraa</l><t>thinks it pleasant; is pleased with him or it. </t></e>
-<e><l>qitornavut nuann</l><t>arĩnarpavut our children only give us pleasure. </t></e>
+<e><l>qitornavut nuann</l><t> our children only give us pleasure. </t></e>
 <e><l>nuannarinngilaa</l><t>does not like him or it.</t></e>
 <e><l>nuannaarpoq</l><t>is pleased and satisfied; enjoys himself. </t></e>
 <e><l>nuannaanngilaq</l><t>is not pleased; feels discontent. </t></e>
@@ -11153,7 +11152,7 @@
 <e><l>nujuiserpaa</l><t>approaches him; threatens him. </t></e>
 <e><l>nujuisersippaa</l><t>allures it (the animal, in order to attract it towards himself or to soothe it).</t></e>
 <e><l>nujuillisarpaa</l><t>tames it (the animal); accustoms it to be approached.</t></e>
-<e><l>nuuk</l><t>headland, naze; point or' end of something (finger, staff, knife, wing, tower, etc.). As:. place-name: nûk, nũnguaq, nûgssuaq, nûssaq, nûluk, nûgârssuk, etc. </t></e>
+<e><l>nuuk</l><t>headland, naze; point or' end of something (finger, staff, knife, wing, tower, etc.).</t></e>
 <e><l>Nuummi</l><t>in the settlement Godthaab.</t></e>
 <e><l>nukappoq (nukaq)</l><t>is loving; is greedy for caresses; is spoilt; tires of his work; is dulled. </t></e>
 <e><l>nukatsippaa</l><t>spoils him.</t></e>
@@ -11351,7 +11350,7 @@
 <e><l>nusuppaa</l><t>pulls it towards him; pulls it out (for instance, a hair). </t></e>
 <e><l>nusuttagaq, nusuttaat</l><t>trigger (on firearm).</t></e>
 <e><l>nusuttaavoq</l><t>has perished in a kayak (pulled along by a harpooned sea mammal).</t></e>
-<e><l>nusutsippoq</l><t>is pulled along by the harpooned sea mammal (the harpoon line becoming tangled so that one capsizes; cf. nagsikarpoq); is pulled along by others (into a party, a movement or the like).</t></e>
+<e><l>nusutsippoq</l><t>is pulled along by the harpooned sea mammal; is pulled along by others (into a party, a movement or the like).</t></e>
 <e><l>nusukarpaa, nusukkarpaa</l><t>pulls him with him (against his will).</t></e>
 <e><l>nusukkarut</l><t>backstay (for sail or tent).</t></e>
 <e><l>nusukkarutaa</l><t>its backstay.</t></e>
@@ -11918,7 +11917,7 @@
 <e><l>pasitsaalivaa</l><t>excuses him. </t></e>
 <e><l>pasitsaalivoq</l><t>excuses himself. </t></e>
 <e><l>pasitsappoq</l><t>becomes suspicious. </t></e>
-<e><l>pasitsaappaa</l><t>suspects him of being guilty; has a suspicion that there is something the matter with him (that he has become ill or the like); </t></e>
+<e><l>pasitsaappaa</l><t>suspects him of being guilty; has a suspicion that there is something the matter with him</t></e>
 <e><l>paasivaa, paaqartippaa (paaq)</l><t> understands it. </t></e>
 <e><l>paasissaavoq</l><t>is intelligible, to be understood. </t></e>
 <e><l>paasissaanngilaq</l><t>is unintelligible, incomprehensible.</t></e>
@@ -12015,7 +12014,7 @@
 <e><l>paffia</l><t>his wrist.</t></e>
 <e><l>paffilluppoq</l><t>has a pain in his wrist. </t></e>
 <e><l>paavoq</l><t>peacock (loan-word).</t></e>
-<e><l>pi</l><t>thing, word which in itself has no particular meaning, but can replace almost any word. As a rule it cannot be used without something affixed or some ending, the latter then becoming the medium through which the meaning of the compound word is expressed. pia, his; his property; his concern. </t></e>
+<e><l>pi</l><t>thing, word which in itself has no particular meaning, but can replace almost any word. </t></e>
 <e><l>kia-una pia</l><t>whose is it? </t></e>
 <e><l>tassa uanga piga</l><t>it is mine. </t></e>
 <e><l>atuarfiup pii</l><t>the inventory of the school. </t></e>
@@ -12180,7 +12179,7 @@
 <e><l>persuarpaa</l><t>treats him with violence. </t></e>
 <e><l>persuarsiorpoq</l><t>holds great festivities.</t></e>
 <e><l>persuppaa</l><t>treats him with violence; abuses him; beats him; </t></e>
-<e><l>persuuppaa</l><t>mostly in pI. perssũpât they attack and kill him or it together. </t></e>
+<e><l>persuuppaa</l><t> they attack and kill him or it together. </t></e>
 <e><l>persuussaq</l><t>an animal which several have had a hand in killing.</t></e>
 <e><l>persuttaapput</l><t>they heap blows or abuse upon each other.</t></e>
 <e><l>persuusiaraa</l><t>considers him or it as something great; makes much of him or it. </t></e>
@@ -13859,7 +13858,7 @@
 <e><l>seerlaavoq</l><t>is fragile; bursts easily (for instance, material). </t></e>
 <e><l>serlerpoq</l><t>is unlucky; brings misfortune; makes himself unpleasantly noticeable (in that something disappears or is damaged where he has been). </t></e>
 <e><l>serleraa</l><t>wishes him far off, as some misfortune always happens where he has been.</t></e>
-<e><l>serlernerpoq</l><t>it is impossible to have one's things in peace for him; he is bad at destroying or carrying away things (for instance, a person who wants to have everything he sees, or breaks much, or a dog which steals); is clever at appropriating things. </t></e>
+<e><l>serlernerpoq</l><t>it is impossible to have one's things in peace for him; he is bad at destroying or carrying away things, is clever at appropriating things. </t></e>
 <e><l>serlernartoq</l><t>conjurer.</t></e>
 <e><l>sermeq</l><t>glacier; ice on solid objects (land, boats, houses, clothes). </t></e>
 <e><l>Qarajap sermia</l><t>the glacier at Karajak. </t></e>
@@ -13990,7 +13989,7 @@
 <e><l>siikarpoq</l><t>bursts (material when being sewn or the like). </t></e>
 <e><l>siikkaavoq</l><t>is apt to burst; is brittle. </t></e>
 <e><l>sisserpaa</l><t>makes a channel or a furrow in it.</t></e>
-<e><l>siiguikkut</l><t>bone knob in front part of strap of water-proof jacket, which prevents the jacket from bursting when tightened round the kayak ring; edging of stronger material round the lower edge of the bird-skin jacket. </t></e>
+<e><l>siiguikkut</l><t>bone knob in front part of strap of water-proof jacket, edging of stronger material round the lower edge of the bird-skin jacket. </t></e>
 <e><l>sissaq</l><t>shore; coast; a legendary sea monster. </t></e>
 <e><l>usii suli sissamiipput</l><t>the cargo is still lying on the shor </t></e>
 <e><l>sissaa ajorpoq</l><t>its (the place's) shore difficult to land at or to get up on.</t></e>
@@ -14556,7 +14555,7 @@
 <e><l>soorlu ukallit iliortartut</l><t>as hares are in the habit of acting.</t></e>
 <e><l>soorlut oqartutit</l><t>as you have said.</t></e>
 <e><l>soorlu ajoqersoraatit, taama iliussaatit</l><t>as he has taught you, you must do.</t></e>
-<e><l>soorlorpiaq, soorlulusooq</l><t>in exactly the same manner as – (cf. –tut).</t></e>
+<e><l>soorlorpiaq, soorlulusooq</l><t>in exactly the same manner as</t></e>
 <e><l>sorluk</l><t>nostrils.</t></e>
 <e><l>sorlui</l><t>his nostrils.</t></e>
 <e><l>sorlukka or sorluukka</l><t>(dual), my nostrils.</t></e>
@@ -15515,7 +15514,7 @@
 <e><l>taperserpaa</l><t>joins him; adds something to it. </t></e>
 <e><l>tapersiuppaa</l><t>augments it. </t></e>
 <e><l>tapersivoq</l><t>receives an addition to his salary.</t></e>
-<e><l>tapertaq</l><t>addition (to something, for instance, a ribbon joined to another, in order to make it strong enough); supplement.</t></e>
+<e><l>tapertaq</l><t>addition (to something, for instance, a ribbon joined to another, supplement.</t></e>
 <e><l>tapertariipput</l><t>they operate together; they supplement each other. </t></e>
 <e><l>tapippai</l><t>takes them at a time. </t></e>
 <e><l>tapinnarpoq</l><t>is insufficient (a thin costume).</t></e>
@@ -15533,7 +15532,7 @@
 <e><l>tarajorpoq</l><t>fetches salt water. </t></e>
 <e><l>tarajorpaa</l><t>puts salt into it; salts it. </t></e>
 <e><l>tarajorterpaa</l><t>salts it (meat or fish). </t></e>
-<e><l>tareerpoq</l><t>abbreviation of tarajuerpoq, the salt has become extracted from it (meat which has been in,pickle; clothes in salt water or the like.) </t></e>
+<e><l>tareerpoq</l><t>abbreviation of tarajuerpoq, the salt has become extracted from it</t></e>
 <e><l>tariinnaavoq</l><t>is very salt.</t></e>
 <e><l>tariippoq</l><t>is saturated with salt water.</t></e>
 <e><l>tariisippaa</l><t>strews salt on it.</t></e>
@@ -16432,7 +16431,7 @@
 <e><l>tukimut saatissagit</l><t>you must turn it so that it stands lengthwise.</t></e>
 <e><l>tukingavoq</l><t>is lengthwise; turns the end towards one.</t></e>
 <e><l>tukippoq</l><t>turns (refl.) lengthwise; stands lengthwise. </t></e>
-<e><l>qimmeq tukissimavoq</l><t>the sledge dog has got loose, in that the cross bone has slipped out of the toggle of the traces. turns it lengthwise; places it lengthwise. </t></e>
+<e><l>qimmeq tukissimavoq</l><t>the sledge dog has got loose, in that the cross bone has slipped out of the toggle of the traces</t></e>
 <e><l>tukimut saatippaa</l><t>is generous. </t></e>
 <e><l>tukkorpoq</l><t>is stingy.</t></e>
 <e><l>tukkuippoq</l><t>gets a night's shelter with a neighbour; sleeps with someone in the neighbourhood; is generous, </t></e>
@@ -16671,7 +16670,7 @@
 <e><l>tuppisarpoq</l><t>travels with a tent. </t></e>
 <e><l>tupippoq</l><t>something sticks in his throat (so that he is on the point of choking).</t></e>
 <e><l>tupilerpoq</l><t>is on the point of choking (in that which he has swallowed).</t></e>
-<e><l>tupititsiniarpoq</l><t>catches seagulls by attaching a piece of blubber to a line and throwing it into the sea as a bait; </t></e>
+<e><l>tupititsiniarpoq</l><t>catches seagulls by attaching a piece of blubber to a line and throwing it into the sea</t></e>
 <e><l>tupititsiniut, tupititsissut</l><t>line with a hook with blubber for catching sea-gulls. </t></e>
 <e><l>tuussaq (tuppoq)</l><t>roof beam; main beam in a Greenlandic house; top beam in a tent frame.</t></e>
 <e><l>tuussassiaq</l><t>piece of timber; plank.</t></e>
@@ -20000,4 +19999,4 @@
 <e><l>usserit</l><t></t></e>
 <e><l>ittoqerpoq</l><t></t></e>
 <e><l>viinnequtip paarmiorfia</l><t></t></e>
-</r>
+<!--DELETE--></r>
