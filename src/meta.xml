@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Contains technical, language independent info used by the scripts -->
+<dictmeta>
+
+  <!-- The ID string for the dictionary -->
+  <id>kaleng</id>
+  <dictfile>kaleng.xml</dictfile>
+
+  <!-- Whether the collection should be publicly visible or not: -->
+  <public>yes</public>
+
+  <!-- List of languages supported by the term collection -->
+  <!-- Each language is identified with ISO 639-2 three-letter codes -->
+  <langs>
+    <lang type="source">kal</lang>
+    <lang>eng</lang>
+  </langs>
+
+</dictmeta>
