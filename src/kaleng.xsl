@@ -23,6 +23,7 @@
  <b>
   <xsl:apply-templates/>
  </b>
+ <xsl:text> </xsl:text>
 </xsl:template>
 
 <!--
@@ -54,7 +55,6 @@
 </xsl:template>
 -->
 <xsl:template match="t">
-
   <xsl:apply-templates/>
 </xsl:template>
 
