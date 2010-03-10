@@ -34,14 +34,14 @@ kaleng.fst: ../bin/kaleng.fst ../bin/kaldic.fst
 	@rm -rf ../../tmp/kaleng-save-script
 
 kaleng.html: ../bin/kaleng.html
-../bin/kaleng.html: kaleng.xml kaleng.xsl
+../bin/kaleng.html: kaleng.xml ../../scripts/gt_dictionary.xsl
 	@echo
 	@echo "*** Building kaleng.html ***" 
 	@echo
 	@echo "*** Note: We now use the xsltproc tool ***"
-	@xsltproc kaleng.xsl kaleng.xml > ../bin/kaleng.html
+	@xsltproc ../../scripts/gt_dictionary.xsl kaleng.xml > ../bin/kaleng.html
 
-# fst for the Sámi words in the dictionary
+# fst for the Kalaalisut words in the dictionary
 
 #Pseudocode:
 #Pick the lemmas, and print them to list
@@ -63,6 +63,6 @@ kaldic.fst: ../bin/kaldic.fst
 	@rm -rf ../../tmp/kaldic-save-script
 
 clean:
-	@rm -f ../bin/*fst ../bin/*dic ../*lexc ../bin/*list
+	@rm -f ../bin/*
 
 
