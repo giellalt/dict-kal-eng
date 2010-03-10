@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><!--DELETE-->
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD kaleng//SE" "kaleng.dtd"><!--DELETE-->
-<?xml-stylesheet type="text/css" href="kaleng.css"?><?xml-stylesheet type="text/xsl" href="kaleng.xsl"?><!--DELETE-->
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?><!--DELETE-->
 <r><!--DELETE-->
 <e><l>a</l><t>Why; well!</t></e>
 <e><l>aa</l><t>Hie; here; listen</t></e>
@@ -81,7 +81,7 @@
 <e><l>samungarsuaq allaat imaqanngilaq</l><t>even quite to the west there is no open water</t></e>
 <e><l>alleq</l><t>long-tailed duck (Pagonetta glacialis)</t></e>
 <e><l>allernaq</l><t>ray (Raia)</t></e>
-<e><l>tarraleqisaaq</l><t> </t></e>,
+<e><l>tarraleqisaaq</l><t> </t></e>
 <e><l>alleroq</l><t>lower jaw; jaw-bone</t></e>
 <e><l>allerulavoq, allerulaarpoq</l><t>his teeth chatter</t></e>
 <e><l>alleruut</l><t>chin strap</t></e>
@@ -94,10 +94,10 @@
 <e><l>uigigaluani alleruppaa neqimik</l><t>for the sake of her deceased husband she abstains from meat</t></e>
 <e><l>allerneq</l><t>cultic rule, -s; taboo</t></e>
 <e><l>alligaq (aki)</l><t>bladder dart</t></e>
-<e><l>alligarpaa</l><t></t></e>,
+<e><l>alligarpaa</l><t></t></e>
 <e><l>alligarnippoq</l><t>catches it with a bladder dart; fixes the bladder dart into it</t></e>
 <e><l>alligartaq</l><t>a seal caught with a bladder dart</t></e>
-<e><l>allikarpoq (alippaa)</l><t></t></e>,
+<e><l>allikarpoq (alippaa)</l><t></t></e>
 <e><l>allikaappoq</l><t>escapes; comes out</t></e>
 <e><l>seqineq allikaappoq</l><t>the sun shines through the clouds</t></e>
 <e><l>allikarfigaa</l><t>escapes; gets out to it</t></e>
