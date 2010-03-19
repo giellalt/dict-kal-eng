@@ -1,6 +1,13 @@
 
-<!ELEMENT r (e+) >
-<!ELEMENT e (l,t)>
-<!ELEMENT l (#PCDATA)>
-<!ELEMENT t (#PCDATA)>
+<!ELEMENT r  ( e )*>
+
+<!ELEMENT e  ( l | mg )*>
+
+<!ELEMENT l  ( #PCDATA )>
+
+<!ELEMENT mg  ( tg )*>
+
+<!ELEMENT tg  ( t )*>
+
+<!ELEMENT t  ( #PCDATA )>
 
