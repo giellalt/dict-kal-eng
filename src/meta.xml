@@ -6,6 +6,10 @@
   <id>kaleng</id>
   <dictfile>kaleng.xml</dictfile>
 
+  <!-- The natural language name(s) for the dictionary -->
+  <name xml:lang="nob">Grønlandsk-engelsk ordbok</name>
+  <name xml:lang="eng">Greenlandic English dictionary</name>
+
   <!-- Whether the collection should be publicly visible or not: -->
   <public>yes</public>
 
