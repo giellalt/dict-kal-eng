@@ -6,7 +6,7 @@
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD kaleng//SE" "kaleng.dtd">
 <?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 -->
-<r><!--DELETE-->
+<r id="kaleng" xml:lang="kal"><!--DELETE-->
 <e><l>a</l><mg><tg><t>Why; well!</t></tg></mg></e>
 <e><l>aa</l><mg><tg><t>Hie; here; listen</t></tg></mg></e>
 <e><l>aannguaq</l><mg><tg><t>little sweet!</t></tg></mg></e>
