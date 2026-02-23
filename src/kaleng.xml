@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/kaleng.dtd">
 <r id="kaleng" xml:lang="kal">
    <e>
       <l>a</l>
